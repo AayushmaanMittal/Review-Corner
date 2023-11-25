@@ -1,9 +1,8 @@
-# Review-Corner
-## This is a small scale project about review for movie with frontend and backend done with HTML,CSS,JAVASCRIPT AND PHP 
-# MYSQL is used for backend
-## backend details
-# Review corner name of the database
-# 3 tables namely user,movie and reviews and a trigger for updating average rating of the movie in the movie table.
+# Review-Corner #
+## This is a small scale project about review for movie with frontend and backend done with HTML,CSS,JAVASCRIPT AND PHP ##
+# MYSQL is used for backend #
+
+
 structures of the table used
 
 ![image](https://github.com/AayushmaanMittal/Review-Corner/assets/114865344/e3439e98-82c1-475f-b139-ca11b8888d16)
