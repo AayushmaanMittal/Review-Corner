@@ -191,7 +191,7 @@ li {
 
 <div id="about" class="section">
     <h2>About Us</h2>
-    <p>Welcome to our movie recommendation website! We are a team of movie enthusiasts who love to share our favorite films with you. Our goal is to provide you with the best movie recommendations based on various genres and themes. Whether you're a fan of action, drama, comedy, or sci-fi, we've got you covered. Explore our website, discover new movies, and let us know your feedback. We value your opinion and strive to improve our recommendations based on your input. Thank you for visiting our website!</p>
+    <p>Welcome to our movie recommendation website ! We are a team of movie enthusiasts who love to share our favorite films with you. Our goal is to provide you with the best movie recommendations based on various genres and themes. Whether you're a fan of action, drama, comedy, or sci-fi, we've got you covered. Explore our website, discover new movies, and let us know your feedback. We value your opinion and strive to improve our recommendations based on your input. Thank you for visiting our website! Visit Again!</p>
 </div>
 
 <div id="contact" class="section">
